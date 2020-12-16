@@ -49,4 +49,6 @@ p{
 .btn2{
     background: rgb(104, 181, 233);
     color: bisque;
+    width: 50px;
+    height: 30px;
 }
