@@ -1,0 +1,52 @@
+html{
+    overflow-x: hidden;
+    position: relative;
+}
+
+body{
+    overflow-x: hidden;
+    position: relative;
+    background-color: white;
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 19px;
+}
+
+#app{
+    text-align: center;
+}
+
+ul li{
+    list-style: none;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+input{
+    width: 20%;
+    height: 20px;
+    border-radius: 5px;
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+
+@media(max-width:800px){
+    input{
+        width: 30%;
+        height: 20px;
+    }
+}
+
+
+p{
+    margin-top: -20px;
+}
+
+.btn1{
+    background: red;
+    color: bisque;
+}
+
+.btn2{
+    background: rgb(104, 181, 233);
+    color: bisque;
+}
