@@ -23,7 +23,7 @@ ul li{
 }
 input{
     width: 20%;
-    height: 20px;
+    height: 30px;
     border-radius: 5px;
     margin-bottom: 30px;
     margin-top: 20px;
@@ -31,8 +31,8 @@ input{
 
 @media(max-width:800px){
     input{
-        width: 30%;
-        height: 20px;
+        width: 35%;
+        height: 30px;
     }
 }
 
